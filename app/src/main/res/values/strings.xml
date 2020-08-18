@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasketetBall ScoreKeeper</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="ScoreA">0</string>
+    <string name="ScoreB">0</string>
+    <string name="rslt">Results</string>
+    <string name="reset">Reset</string>
+    <string name="Plus3">+3 Points</string>
+    <string name="Plus2">+2 Points</string>
+    <string name="free">Free Throw</string>
+</resources>
